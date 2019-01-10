@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - DataCompression (3.0.0)
+  - HandyJSON (4.2.1)
+  - KeychainAccess (3.1.2)
+  - Kingfisher (4.10.1)
+  - MJRefresh (3.1.15.7)
+  - SnapKit (4.0.1)
+  - swiftScan (1.1.5)
+  - Toast-Swift (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.2)
+  - Charts
+  - DataCompression
+  - HandyJSON (~> 4.2.0)
+  - KeychainAccess
+  - Kingfisher (>= 4.3.1)
+  - MJRefresh
+  - SnapKit (~> 4.0.0)
+  - swiftScan (~> 1.1.2)
+  - Toast-Swift (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Charts
+    - DataCompression
+    - HandyJSON
+    - KeychainAccess
+    - Kingfisher
+    - MJRefresh
+    - SnapKit
+    - swiftScan
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  DataCompression: 4df426340ccbf53851df71dd652bd80d0ea47eb7
+  HandyJSON: d0c5fc80204f29056d59d3e5c4587fa0b16b60a8
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  swiftScan: bc6dbf74e6a579c45a861691afc44628d8d9f6ab
+  Toast-Swift: 594b5c5e5129f15438e410207e43287f027b3c00
+
+PODFILE CHECKSUM: b40c62850bc20f2520a0e02fdad49a9c1c1ac257
+
+COCOAPODS: 1.5.3

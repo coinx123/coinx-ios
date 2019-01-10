@@ -1,0 +1,9 @@
+##folders
+/pods
+
+
+.DS_Store
+Coin.xcodeproj/xcuserdata
+Coin.xcodeproj/project.xcworkspace/xcuserdata
+Coin.xcworkspace/xcuserdata
+Pods/Pods.xcodeproj/xcuserdata
